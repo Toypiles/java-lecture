@@ -1,4 +1,4 @@
-package javabasic.access.a;
+package a;
 
 public class PublicClassInnerMain {
     public static void main(String[] args) {

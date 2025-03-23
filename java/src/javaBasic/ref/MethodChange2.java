@@ -1,4 +1,4 @@
-
+package javaBasic.ref;
 public class MethodChange2 {
     public static void main(String[] args) {
         Data dataA = new Data();

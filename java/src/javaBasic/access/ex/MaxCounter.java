@@ -1,4 +1,4 @@
-package access.ex;
+package ex;
 
 public class MaxCounter {
     private int count;

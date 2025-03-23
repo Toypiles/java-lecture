@@ -1,4 +1,4 @@
-package javaBasic;
+package javaBasic.ref;
 
 public class BigData {
     Data data;

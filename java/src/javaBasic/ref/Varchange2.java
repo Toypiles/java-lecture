@@ -1,3 +1,4 @@
+package javaBasic.ref;
 public class Varchange2 {
     public static void main(String[] args) {
         Data dataA = new Data();

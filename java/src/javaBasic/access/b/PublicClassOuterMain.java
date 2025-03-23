@@ -1,6 +1,6 @@
-package javabasic.access.b;
+package b;
 
-import javabasic.access.a.PublicCalss;
+import a.PublicCalss;
 
 public class PublicClassOuterMain {
     public static void main(String[] args) {
